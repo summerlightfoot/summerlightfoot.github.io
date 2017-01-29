@@ -1,0 +1,42 @@
+/* 
+
+Project Name: Summer's Photography
+Client: One Month
+Author: Summer
+Developed @ One Month in NYC 
+
+*/
+
+body {
+	background: url('../images/Assignment_1_0009.jpg');
+	/* the follow is the code to have the image display as a full page */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: covre;
+	font-family: 'Dosis', sans-serif;
+}
+
+#container {
+	background: #000000;
+	width: 400px;
+	color: white;
+	padding: 5px;
+    border-radius: 5px;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	background: #7475DB;
+	color: black;
+}
+
+a {
+	color: #59D698;
+	text-decoration: none;
+}
