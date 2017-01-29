@@ -15,7 +15,7 @@ body {
 	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: covre;
+	background-size: cover;
 	font-family: 'Dosis', sans-serif;
 }
 
